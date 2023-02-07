@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melissafeeney
-- 👀 I’m interested in all things data science, especially NLP/NLU, deep learning, and transfer learning
+- 👀 I’m interested in all things data science, especially NLP/NLU/NLI, deep learning, and transfer learning
 - 👩🏻‍💻 I work in customer analytics and data science for Calvin Klein in NYC
 - 🌱 I recently earned my graduate degree in data science/quant methods from Columbia University in NYC
 
